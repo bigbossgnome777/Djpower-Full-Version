@@ -241,3 +241,6 @@ This repository serves as the official landing page for DJPower. The software is
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of DJPower today!**
+
+---
+**Last updated:** 2026-09-07 18:28:16 UTC
